@@ -1,0 +1,16 @@
+{
+  "name": "mhorvat85/jobapp",
+  "description": "Job listing application",
+  "authors": [
+    {
+      "name": "Marko Horvat",
+      "email": "horvat.marko2212@gmail.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "Framework\\": "Framework/",
+      "App\\": "App/"
+    }
+  }
+}
